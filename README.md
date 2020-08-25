@@ -9,4 +9,5 @@ Various Competitive Programming Problems using Recursions
 6. **multiply** -> Arithmetic Multiplication without using * with help of Recursion.
 7. **number_to_spell** -> Convert an integer into spelling , i.e. 2048 -> two zero four eight using Recursion.
 8. **Power** -> Exponential Power Calculation using Recursion.
-9. **string_to_int** -> Convert a given string of numbers into integer using Recursion.
+9. **replace_pi** -> Replace pi with 3.14 in a string inplace using Recursion.
+10. **string_to_int** -> Convert a given string of numbers into integer using Recursion.
